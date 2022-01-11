@@ -10,30 +10,18 @@
 
 ## Home Page
 
-![](Home%20Page.jpg)
+<img src="Home%20Page.jpg" height="700">
 
 ## Electricity Bill Generation
 
-![](Electricity%20bill%20generation%20Options.jpg)
-
-![](custom%20form%20elec.jpg)
-
-![](electricity%20bill%20in%20database.jpg)
-
-![](electricity%20bill%20manual.jpg)
+<img src="Electricity%20bill%20generation%20Options.jpg" height="700">  <img src="custom%20form%20elec.jpg" height="700"><img src="electricity%20bill%20in%20database.jpg" height="700">  <img src="electricity%20bill%20manual.jpg" height="700">
 
 ## Water Bill Generation 
 
-![](custom%20form%20water.jpg)
-
-![](water%20bill%20details.jpg)
+<img src="custom%20form%20water.jpg" height="700"> <img src="water%20bill%20details.jpg" height="700">
 
 ## Bus Reservation
 
-![](custom%20form%20for%20bus.jpg)
+<img src="custom%20form%20for%20bus.jpg" height="700"> <img src="seat%20matrix.jpg" height="700"><img src="seat%20matrix%20with%20reserv%20seat.jpg" height="700"> <img src="bus%20booking%20confo.jpg" height="700">
 
-![](seat%20matrix.jpg)
-
-![](seat%20matrix%20with%20reserv%20seat.jpg)
-
-![](bus%20booking%20confo.jpg)
+### ~By Sumith
